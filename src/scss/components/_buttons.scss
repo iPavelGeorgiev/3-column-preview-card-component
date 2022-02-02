@@ -1,0 +1,29 @@
+@use "../abstracts/colors";
+
+%btn {
+  display: inline-block;
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.btn-transparent-txt {
+  @extend %btn;
+  position: relative;
+  padding: 0.6rem 1.6rem;
+  background: colors.$very-light-gray;
+  border: 2px solid colors.$very-light-gray;
+  border-radius: 1.7rem;
+  color: black;
+  mix-blend-mode: screen;
+
+  &:hover {
+    background: none;
+    color: colors.$very-light-gray;
+    mix-blend-mode: normal;
+  }
+}
