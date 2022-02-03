@@ -272,4 +272,17 @@ body {
   }
 }
 
+.attribution {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  font-size: 12px;
+  color: #333;
+}
+.attribution a {
+  color: #3e52a3;
+}
+
 /*# sourceMappingURL=main.css.map */
