@@ -2,7 +2,7 @@
 
 // A map of breakpoints.
 $breakpoints: (
-  "mobile": 450px,
+  "mobile": 760px,
 );
 
 @mixin breakpoint($breakpoint, $direction) {
