@@ -39,8 +39,8 @@ I don't have access to the premium Figma/Sketch files, so the design is not pixe
 
 ### Links
 
-- [Live Site URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-Pd1G_D3wA)
-- [Solution URL](https://pavel-frontend-mentor.github.io/3-column-preview-card-component)
+- [Live Site URL](https://pavel-frontend-mentor.github.io/3-column-preview-card-component)
+- [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-Pd1G_D3wA)
 
 ## My process
 
