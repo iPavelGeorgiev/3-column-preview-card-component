@@ -39,7 +39,7 @@ I don't have access to the premium Figma/Sketch files, so the design is not pixe
 
 ### Links
 
-- [Live Site URL](https://pavel-frontend-mentor.github.io/3-column-preview-card-component)
+- [Live Site URL](https://ipavelgeorgiev.github.io/3-column-preview-card-component/)
 - [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-Pd1G_D3wA)
 
 ## My process
@@ -58,6 +58,32 @@ I learned a new technique for creating buttons with transparent text using the m
 ### Useful resources
 
 1. [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - Awesome Chrome extension that helps you to match the pixels of the provided design.
+
+### Run locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/iPavelGeorgiev/3-column-preview-card-component.git
+```
+
+Go to the project directory
+
+```bash
+  cd 3-column-preview-card-component
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 ## Author
 
